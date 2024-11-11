@@ -34,7 +34,7 @@ A página é formatada com um layout responsivo e esteticamente organizado, incl
 📱 Responsividade: Adaptável a diferentes tamanhos de tela, proporcionando uma boa visualização tanto em dispositivos móveis quanto em desktops.
 🛠️ Tecnologias Utilizadas
 
-##👩‍💻 Autor
+## 👩‍💻 Autor
 Desenvolvido com 💙 por Mariana Milani Matos
 
 📄 Licença
