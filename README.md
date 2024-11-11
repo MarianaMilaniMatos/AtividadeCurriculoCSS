@@ -26,7 +26,7 @@ Para visualizar o currículo, basta abrir o arquivo `index.html` em qualquer nav
 2. Abra o arquivo index.html em um navegador.
 3. Navegue pelas seções do currículo para visualizar todas as informações.
 
-##🎨 Estilos e Layout
+## 🎨 Estilos e Layout
 A página é formatada com um layout responsivo e esteticamente organizado, incluindo:
 
 🎨 Cores e Tipografia: Combinação de cores para destaque das seções e tipografia apropriada para legibilidade.
